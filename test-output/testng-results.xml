@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21" started-at="2019-05-02T05:26:03Z" finished-at="2019-05-02T05:26:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21" started-at="2019-05-02T05:26:03Z" finished-at="2019-05-02T05:26:03Z">
+      <class name="com.tests.TC_1">
+        <test-method status="PASS" signature="setapp()[pri:0, instance:com.tests.TC_1@1f3ddb1]" name="setapp" is-config="true" duration-ms="1305" started-at="2019-05-02T10:56:02Z" finished-at="2019-05-02T10:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setapp -->
+      </class> <!-- com.tests.TC_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
